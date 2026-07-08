@@ -1,4 +1,4 @@
-# Visual-Communication
+# Multimedia
 
 Abdominal Trauma Dataset: https://universe.roboflow.com/rsna-abdominal-challenge/abdominal-trauma
 
